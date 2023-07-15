@@ -7,6 +7,7 @@
 ###### learn
 <img src="https://img.shields.io/badge/python-3776AB?style=python&logo=python&logoColor=white"/></a> 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksksla38)](https://solved.ac/gksksla38/)
 <!--![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=euichansong)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euichansong)
 ![Euichan's GitHub stats](https://github-readme-stats.vercel.app/api?username=euichansong&show_icons=true&theme=transparent&count_private=true)
