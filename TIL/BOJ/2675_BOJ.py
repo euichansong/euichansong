@@ -33,11 +33,21 @@
 #         text += r * s
 #     print(text)
 
-t = int(input())
+# t = int(input())
 
+# for i in range(t):
+#     r, s = input().split()
+#     if i == t:
+#         for k in range(int(r)):
+#             print(s[k]*int(r), end='')
+#     print()
+
+t = int(input())
 for i in range(t):
     r, s = input().split()
-    if i == t:
-        for k in range(int(r)):
-            print(s[k]*int(r), end='')
+    r = int(r)
+    # for k in range(r):
+    z=len(s)
+    for j in range(z):
+        print(s[j]*r, end='')
     print()
